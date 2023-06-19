@@ -18,6 +18,7 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 - [x] finish style for heading 2
 - [x] fix page numbering
 - [ ] finish styling TOC
+- [x] set page layout
 - [ ] add cover page
 - [ ] add contents for ch 1
 - [ ] add contents for ch 2
