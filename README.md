@@ -14,8 +14,10 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 
 - [x] test if committed file while ms-word is open is safe
 - [x] finish style for normal
-- [ ] finish style for heading 1
-- [ ] finish style for heading 2
+- [x] finish style for heading 1
+- [x] finish style for heading 2
+- [x] fix page numbering
+- [ ] finish styling TOC
 - [ ] add cover page
 - [ ] add contents for ch 1
 - [ ] add contents for ch 2
