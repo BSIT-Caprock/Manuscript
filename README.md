@@ -13,7 +13,7 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 ## To-do
 
 - [x] test if committed file while ms-word is open is safe
-- [ ] finish style for normal
+- [x] finish style for normal
 - [ ] finish style for heading 1
 - [ ] finish style for heading 2
 - [ ] add cover page
@@ -25,4 +25,4 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 ## Later
 
 - [ ] add bibliography xml
-- [ ] 
+
