@@ -1,0 +1,1 @@
+check if committed file while ms-word is open is safe -DONE
