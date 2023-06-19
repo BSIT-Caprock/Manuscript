@@ -13,10 +13,16 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 ## To-do
 
 - [x] test if committed file while ms-word is open is safe
+- [ ] finish style for normal
 - [ ] finish style for heading 1
 - [ ] finish style for heading 2
-- [ ] finish style for normal paragraphs
 - [ ] add cover page
 - [ ] add contents for ch 1
 - [ ] add contents for ch 2
 - [ ] add contents for ch 3
+- [ ] export finished template `*.dotm`
+
+## Later
+
+- [ ] add bibliography xml
+- [ ] 
