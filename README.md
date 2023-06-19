@@ -2,6 +2,9 @@
 
 contains the capstone manuscript
 
+### Why make this?
+
+The previous manuscript is broken. Caption and chapter numbering is not working properly.
 
 ## Notes
 
