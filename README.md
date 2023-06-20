@@ -20,7 +20,7 @@ contains the capstone manuscript.
 - [x] fix page numbering
 - [ ] finish styling TOC
 - [x] set page layout
-- [ ] add cover page
+- [x] add cover page
 - [ ] add contents for ch 1
 - [ ] add contents for ch 2
 - [ ] add contents for ch 3
