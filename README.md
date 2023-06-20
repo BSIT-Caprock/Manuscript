@@ -4,7 +4,8 @@ Contains Capstone manuscript based on a custom template with quick styles and ad
 
 ## Downloads
 
-[Manuscript.docx](https://github.com/BSIT-Caprock/Manuscript/raw/main/Manuscript.docx)
+- [Manuscript](https://github.com/BSIT-Caprock/Manuscript/raw/main/Manuscript.docx)
+- [Template](https://github.com/BSIT-Caprock/Manuscript/raw/main/Template.dotx)
 
 
 ## Notes
