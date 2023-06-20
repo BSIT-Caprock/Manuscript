@@ -1,10 +1,11 @@
 # Manuscript
 
-contains the capstone manuscript
+contains the capstone manuscript.
 
-### Why make this?
+## Downloads
 
-The previous manuscript is broken. Caption and chapter numbering is not working properly.
+[Manuscript.docx](https://github.com/BSIT-Caprock/Manuscript/raw/main/Manuscript.docx)
+
 
 ## Notes
 
@@ -40,4 +41,10 @@ The previous manuscript is broken. Caption and chapter numbering is not working 
 | Heading 2 (Chapter Title)  | 3         | 0.15"   |
 | Heading 2                  | 4         | 0.15"   |
 | Heading 3                  | 5         | 0.31"   |
+
+----
+
+## Why make this?
+
+The previous manuscript was broken. Caption and chapter numbering were not working properly.
 
