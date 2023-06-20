@@ -24,7 +24,7 @@ contains the capstone manuscript.
 - [ ] add contents for ch 1
 - [ ] add contents for ch 2
 - [ ] add contents for ch 3
-- [ ] export finished template `*.dotm`
+- [ ] export finished template
 
 ## Later
 
