@@ -1,6 +1,6 @@
 # Manuscript
 
-contains the capstone manuscript.
+Contains Capstone manuscript based on a custom template with quick styles and advanced formatting options. 
 
 ## Downloads
 
@@ -18,7 +18,7 @@ contains the capstone manuscript.
 - [x] finish style for heading 1
 - [x] finish style for heading 2
 - [x] fix page numbering
-- [ ] finish styling TOC
+- [x] finish styling TOC
 - [x] set page layout
 - [x] add cover page
 - [ ] add contents for ch 1
