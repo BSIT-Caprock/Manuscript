@@ -2,6 +2,7 @@
 
 Contains Capstone manuscript based on a custom template with quick styles and advanced formatting options. 
 
+
 ## Downloads
 
 - [Manuscript](https://github.com/BSIT-Caprock/Manuscript/raw/main/Manuscript.docx)
