@@ -1,13 +1,12 @@
 # Manuscript
 
-Contains Capstone manuscript based on a custom template with quick styles and advanced formatting options. 
+Contains Capstone manuscript based on a [custom template](https://github.com/BSIT-Caprock/Manuscript-Template) with quick styles and advanced formatting options. 
 
 
 ## Downloads
 
-- [Manuscript](https://github.com/BSIT-Caprock/Manuscript/raw/main/Manuscript.docx)
-- [Template](https://github.com/BSIT-Caprock/Manuscript-Template/raw/main/Template.dotx)
-
+* [Version 0](https://github.com/BSIT-Caprock/Manuscript/raw/v0/Manuscript.docx)
+* Version 1 -TODO
 
 ## Notes
 
