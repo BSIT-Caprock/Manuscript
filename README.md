@@ -47,10 +47,6 @@ Contains Capstone manuscript paper based on a [custom template](https://github.c
 
 ## Chapter II
 
-| Status | Task   |
-| :----: | :----- |
-| `TODO` | review |
-
 ### Theoretical Framework
 
 | Status | Task   |
@@ -76,10 +72,6 @@ Contains Capstone manuscript paper based on a [custom template](https://github.c
 | `TODO` | review |
 
 ## Chapter III
-
-| Status | Task   |
-| :----: | :----- |
-| `TODO` | review |
 
 ### Operational Framework
 
@@ -161,10 +153,6 @@ Contains Capstone manuscript paper based on a [custom template](https://github.c
 
 ## Chapter IV
 
-| Status | Task   |
-| :----: | :----- |
-| `TODO` | review |
-
 ### Results and Discussion
 
 | Status | Task   |
@@ -184,10 +172,6 @@ Contains Capstone manuscript paper based on a [custom template](https://github.c
 | `TODO` | review |
 
 ## Chapter V
-
-| Status | Task   |
-| :----: | :----- |
-| `TODO` | review |
 
 ### Summary, Conclusions, and Recommendations
 
